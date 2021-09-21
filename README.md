@@ -1,4 +1,4 @@
-# 👋 Olá somos o @cafecomcloud
+# 👋 Olá somos o cafecomcloud
 
 Um canal pensado para aqueles profissionais que queiram dar um passo a mais em sua carreira. Divulgamos eventos dos provedores de cloud além de fazer varios conteudos sobre cloud, dados e carreira em TI!
 
