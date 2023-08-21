@@ -6,7 +6,7 @@ Um canal pensado para aqueles profissionais que queiram dar um passo a mais em s
 
 🌱 Queremos te ouvir e temos um quadro muito interessante que é o cafe com cloud responde no Instagram e todas nossas respostas são publicadas no YouTube
 
-Somos uma iniciativa de 3 profissionais da área de cloud e dados que se juntaram para compartilhar conhecimento
+Somos uma iniciativa de profissionais da área de cloud e dados que se juntaram para compartilhar conhecimento
 
 Este projeto não tem vinculo com nossos empregadores atuais! Prezamos por um conteudo gratuito e acessivel em português.
 
